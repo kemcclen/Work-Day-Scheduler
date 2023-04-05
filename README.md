@@ -7,9 +7,9 @@ A simple calendar application that allows a user to save events for each hour of
 - When opened, the current day is displayed at the top of the calendar
 - The user is presented with timeblocks for standard business hours
 - The timeblocks are colour coded to indicate whether it is in the past, present, or future
-    - Past: #f8d3c5;
-    - Present: #dde6d5;
-    - Future: #b9d9f5;
+    - Past:  ![#f8d3c5](https://placehold.co/15x15/f8d3c5/f8d3c5.png) `#f8d3c5`
+    - Present: ![#dde6d5](https://placehold.co/15x15/dde6d5/dde6d5.png) `#dde6d5`
+    - Future: ![#b9d9f5](https://placehold.co/15x15/b9d9f5/b9d9f5.png) `#b9d9f5`
 - When a timeblock is clicked, the user can enter an event
 - The user can save their event, even when the page is refreshed
 

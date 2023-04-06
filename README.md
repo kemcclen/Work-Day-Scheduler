@@ -23,4 +23,11 @@ MIT License
 ## Assets
 The following demonstrates the applications appearance and functionality:
 
+
+https://user-images.githubusercontent.com/123762040/230467381-b980f6c5-de2a-4042-88c0-4511bc47ea86.mov
+
+
 ## Web Links
+
+Repository: https://github.com/kemcclen/Work-Day-Scheduler
+Deployed Webpage: https://kemcclen.github.io/Work-Day-Scheduler/
